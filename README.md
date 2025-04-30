@@ -4,7 +4,7 @@ Este repositorio contiene un proyecto enfocado en la clasificación de posturas 
 
 ## Contenido del Repositorio
 
-- `Redes.ipynb`: Notebook que contiene la creación del dataset `landmarks_dataset.csv` y el modelo de red neuronal con su respectiva prueba. **No es necesario ejecutar la primera Celda ya que es para la creación del .csv y es tardio**
+- `Redes.ipynb`: Notebook que contiene la creación del dataset `landmarks_dataset.csv` y el modelo de red neuronal con su respectiva prueba. **No es necesario ejecutar la primera Celda ya que es para la creación del .csv y es tardio**. Es recomendable ejecutar la segunda celda para ver el entrenamiento de la red y dos graficas q reflejan la evolución de la red (esto tarda 1min)
 - `landmarks_dataset.csv`: Dataset generado con el dataset descargado desde: 👉 [Yoga Pose Image Classification Dataset](https://www.kaggle.com/datasets/shrutisaxena/yoga-pose-image-classification-dataset)
 - `kNN.ipynb`: Implementación del algoritmo k-Nearest Neighbors usando otro csv diferente `knn.csv`.
 - `KnnCSV.ipynb`: Creacion del nuevo csv utilizado para el algortimo de KNN.
