@@ -18,7 +18,12 @@ Este repositorio contiene un proyecto enfocado en la clasificación de posturas 
 ## Requisitos
 
 - Python 3.8+
-- Librerías necesarias (instalables con pip):
+- Librerías necesarias:
 
+(instalables con pip)
 ```bash
 pip install numpy pandas tensorflow scikit-learn matplotlib joblib opencv-python mediapipe
+```
+(instalables con conda)
+```bash
+conda install numpy pandas tensorflow scikit-learn matplotlib joblib opencv-python mediapipe
